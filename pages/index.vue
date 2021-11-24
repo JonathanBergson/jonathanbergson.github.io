@@ -1,5 +1,5 @@
 <template>
-  <div class="links">
+  <div>
     <nuxt-link to="/pandora">Pandora</nuxt-link>
     •
     <nuxt-link to="/hotliner">Hotliner</nuxt-link>
@@ -13,9 +13,3 @@ export default {
   layout: "blog"
 }
 </script>
-
-<style lang="scss" scoped>
-.links {
-  text-align: center;
-}
-</style>
