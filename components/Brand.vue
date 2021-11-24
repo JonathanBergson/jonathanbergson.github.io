@@ -22,18 +22,22 @@ $content-heading-color: #c71054;
   background-color: $body-background-color-secundary;
   background-image: linear-gradient(to right, $body-background-color-secundary, $body-background-color-secundary 4px, $body-background-color 4px, $body-background-color );
   background-size: 10px 100%;
-  color: $content-heading-color;
+  text-align: center;
   font-size: 32px;
   line-height: 4px;
   margin: 0 -4000px;
   opacity: 0.8;
-  padding: 0 4000px;
 
   a {
+    border: 2px transparent solid;
     color: $content-heading-color;
+    font-weight: bold;
+    padding: 12px 24px;
+    transition: all 0.2s;
 
     &:hover {
-      text-decoration: underline;
+      background-color: #161a1d;
+      border-color: $content-heading-color;
     }
   }
 }
