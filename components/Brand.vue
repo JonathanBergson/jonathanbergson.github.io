@@ -11,7 +11,6 @@
   // text-align: center;
   margin: 48px -4000px;
   padding: 0 4000px;
-  background-color: #e5e5f7;
   opacity: 0.8;
   background-image: linear-gradient(to right, $body-background-color-secundary, $body-background-color-secundary 4px, $body-background-color 4px, $body-background-color );
   background-size: 10px 100%;
