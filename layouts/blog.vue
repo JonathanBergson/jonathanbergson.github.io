@@ -1,6 +1,13 @@
 <template>
   <div class="container">
-    <h1 class="brand">Jonathan Bergson</h1>
+    <brand />
     <Nuxt />
   </div>
 </template>
+
+<style scoped>
+.container {
+  margin: 120px auto;
+  max-width: 680px;
+}
+</style>
