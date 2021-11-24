@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/venda-sertao-mundo", (function(a){return {data:[{document:{slug:"venda-sertao-mundo",description:"Trabalho do curso de Jogos Digitais",title:"Venda Sertão Mundo",toc:[],body:{type:"root",children:[]},dir:"\u002F",path:"\u002Fvenda-sertao-mundo",extension:".md",createdAt:a,updatedAt:a}}],fetch:{},mutations:void 0}}("2021-11-24T23:09:44.030Z")));
