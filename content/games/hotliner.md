@@ -3,8 +3,6 @@ title: Hotliner
 description: 'Trabalho do curso de Jogos Digitais'
 ---
 
-# Hotliner
-
 ## O que é o jogo?
 
 Hotliner é um *infinit runner* onde você é um caçador de recompensas, a ideia do game é que você está perseguindo a procurar uma de suas recompensas.
