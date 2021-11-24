@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/venda-sertao-mundo", (function(a){return {data:[{document:{slug:"venda-sertao-mundo",toc:[],body:{type:"root",children:[]},dir:"\u002F",path:"\u002Fvenda-sertao-mundo",extension:".md",createdAt:a,updatedAt:a}}],fetch:{},mutations:void 0}}("2021-11-24T21:19:58.022Z")));
