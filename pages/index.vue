@@ -1,8 +1,8 @@
 <template>
   <div>
-    <nuxt-link to="/pandora">
-    <nuxt-link to="/hotliner">
-    <nuxt-link to="/venda-sertao-mundo">
+    <nuxt-link to="/pandora">Pandora</nuxt-link>
+    <nuxt-link to="/hotliner">Hotliner</nuxt-link>
+    <nuxt-link to="/venda-sertao-mundo">Venda Sertão Mundo</nuxt-link>
   </div>
 </template>
 
