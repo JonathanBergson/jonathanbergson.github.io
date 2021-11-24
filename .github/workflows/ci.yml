@@ -48,3 +48,12 @@ jobs:
       - name: Run linter 👀
         run: yarn lint
 
+      - name: Generate and Build 👨🏻‍💻
+        run: yarn generate && yarn build      
+      
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+          branch: dist
+          folder: dist
+
