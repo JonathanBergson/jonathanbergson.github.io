@@ -3,6 +3,9 @@
 </template>
 
 <style lang="scss" scoped>
+$body-background-color: #161a1d;
+$body-background-color-secundary: #1f2328;
+
 .brand {
   line-height: 4px;
   background-color: $body-background-color-secundary;

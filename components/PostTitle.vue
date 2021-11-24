@@ -5,6 +5,8 @@
 </template>
 
 <style lang="scss" scoped>
+$content-heading-color: #c71054;
+
 .post-title {
   background-color: $content-heading-color;
   color: $body-color;
