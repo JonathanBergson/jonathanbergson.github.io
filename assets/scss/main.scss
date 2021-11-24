@@ -5,6 +5,7 @@
 $family-primary: "Fira Code", sans-serif;
 
 $body-background-color: #161a1d;
+$body-background-color-secundary: #1f2328;
 $body-color: #d6d6d6;
 $content-heading-color: #c71054;
 
@@ -15,6 +16,13 @@ $content-heading-color: #c71054;
 
 // Meu CSS Reset
 @import "./reset.scss";
+
+body {
+  background-color: $body-background-color;
+  opacity: 1;
+  background-image: radial-gradient(#1f2328 1.5px, $body-background-color 1.5px);
+  background-size: 30px 30px;
+}
 
 .container {
   margin: 0 auto;
@@ -32,14 +40,15 @@ $content-heading-color: #c71054;
 }
 
 .brand {
-  line-height: 8px;
-  background-color: $content-heading-color;
-  font-size: 48px;
+  line-height: 4px;
+  background-color: $body-background-color-secundary;
+  color: $content-heading-color;
+  font-size: 32px;
   text-align: center;
   margin: 40px -285px 120px;
   padding: 0 285px;
   background-color: #e5e5f7;
   opacity: 0.8;
-  background-image: linear-gradient(to right, $content-heading-color, $content-heading-color 5px, $body-background-color 5px, $body-background-color );
+  background-image: linear-gradient(to right, $body-background-color-secundary, $body-background-color-secundary 4px, $body-background-color 4px, $body-background-color );
   background-size: 10px 100%;
 }
