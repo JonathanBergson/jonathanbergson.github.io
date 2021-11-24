@@ -1,9 +1,7 @@
 ---
-title: Hotliner
+title: Pandora
 description: 'Trabalho do curso de Jogos Digitais'
 ---
-
-# Hotliner
 
 ## O que é o jogo?
 

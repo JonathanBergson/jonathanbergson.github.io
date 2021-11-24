@@ -43,8 +43,17 @@ jobs:
             ${{ runner.os }}-yarn-
 
       - name: Install dependencies 👨🏻‍💻
-        run: yarn
+        run: yarn install
 
       - name: Run linter 👀
         run: yarn lint
+
+      - name: Generate 👨🏻‍💻
+        run: yarn generate  
+      
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+          branch: dist
+          folder: dist
 
