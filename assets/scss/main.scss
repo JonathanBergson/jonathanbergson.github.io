@@ -30,3 +30,16 @@ $content-heading-color: #c71054;
   margin: 24px -0;
   padding: 12px 24px;
 }
+
+.brand {
+  line-height: 8px;
+  background-color: $content-heading-color;
+  font-size: 48px;
+  text-align: center;
+  margin: 40px -285px 120px;
+  padding: 0 285px;
+  background-color: #e5e5f7;
+  opacity: 0.8;
+  background-image: linear-gradient(to right, $content-heading-color, $content-heading-color 5px, $body-background-color 5px, $body-background-color );
+  background-size: 10px 100%;
+}
