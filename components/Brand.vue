@@ -28,5 +28,13 @@ $content-heading-color: #c71054;
   margin: 0 -4000px;
   opacity: 0.8;
   padding: 0 4000px;
+
+  a {
+    color: $content-heading-color;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 </style>
