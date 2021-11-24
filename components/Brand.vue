@@ -1,5 +1,11 @@
 <template>
-  <h1 class="brand">Jonathan Bergson</h1>
+  <div class="brand">
+    <h1 class="brand-name">
+      <nuxt-link to="/">
+        Jonathan Bergson
+      </nuxt-link>
+    </h1>
+  </div>
 </template>
 
 <style lang="scss" scoped>
@@ -9,15 +15,18 @@ $body-color: #d6d6d6;
 $content-heading-color: #c71054;
 
 .brand {
-  line-height: 4px;
+  padding: 48px 0;
+}
+
+.brand-name {
   background-color: $body-background-color-secundary;
-  color: $content-heading-color;
-  font-size: 32px;
-  // text-align: center;
-  margin: 48px -4000px;
-  padding: 0 4000px;
-  opacity: 0.8;
   background-image: linear-gradient(to right, $body-background-color-secundary, $body-background-color-secundary 4px, $body-background-color 4px, $body-background-color );
   background-size: 10px 100%;
+  color: $content-heading-color;
+  font-size: 32px;
+  line-height: 4px;
+  margin: 0 -4000px;
+  opacity: 0.8;
+  padding: 0 4000px;
 }
 </style>
