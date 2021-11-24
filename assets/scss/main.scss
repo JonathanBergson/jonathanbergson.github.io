@@ -13,6 +13,9 @@ $content-heading-color: #c71054;
 @import "../../node_modules/bulma/sass/base/_all.sass";
 @import "../../node_modules/bulma/sass/elements/content.sass";
 
+// Meu CSS Reset
+@import "./reset.scss";
+
 .container {
   margin: 0 auto;
   max-width: 720px;
