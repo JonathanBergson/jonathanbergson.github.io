@@ -23,6 +23,7 @@ body {
   background-image: radial-gradient(#1f2328 1.5px, $body-background-color 1.5px);
   background-size: 30px 30px;
   opacity: 1;
+  overflow-x: hidden;
 }
 
 a {
