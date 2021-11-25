@@ -16,5 +16,6 @@ $content-heading-color: #c71054;
   display: inline-block;
   margin: 24px -0;
   padding: 12px 24px;
+  text-align: left;
 }
 </style>
