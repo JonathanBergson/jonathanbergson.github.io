@@ -16,3 +16,7 @@ As principais referências para esse estilo visual que buscamos são filmes vint
 Esse foi o segundo projeto desenvolvido no curso de Jogos Digitais da PUC Minas. Foi o primeiro game que desenvolvi com outra pessoa, trabalhei junto do Ricardo Storino. Ele ficou mais focado no design de interface, design de som e modelagem. Eu trabalhei em alguns dos modelos 3D que utilizamos nos cenários, na pintura de texturas e na programação de todo o game.
 
 Todos os modelos 3D que criamos para o game foram desenvolvidos utilizando o Blender. As texturas foram baseadas em jogos como Sea Of Thieves e Valorant, e foram todas pintadas por nós utilizando o Krita como principal ferramenta.
+
+#### Download:
+
+<iframe src="https://itch.io/embed/912367" width="552" height="167" frameborder="0"><a href="https://jonathanbergson.itch.io/hotliner">Hotliner by Jonathan Bergson</a></iframe>
