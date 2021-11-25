@@ -23,4 +23,4 @@ Todos os modelos 3D que criamos para o game foram desenvolvidos utilizando o Ble
 
 #### Download:
 
-<iframe src="https://itch.io/embed/912367" width="552" height="167" frameborder="0"><a href="https://jonathanbergson.itch.io/hotliner">Hotliner by Jonathan Bergson</a></iframe>
+<iframe src="https://itch.io/embed/912367?bg_color=161a1d&amp;fg_color=d6d6d6&amp;link_color=c71054&amp;border_color=161a1d" width="552" height="167" frameborder="0"><a href="https://jonathanbergson.itch.io/hotliner">Hotliner by Jonathan Bergson</a></iframe>

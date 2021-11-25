@@ -35,4 +35,4 @@ Os controles do jogos utilizam mouse para mirar e o WASD para movimentar a nave.
 
 #### Download:
 
-<iframe src="https://itch.io/embed/701990" width="552" height="167" frameborder="0"><a href="https://jonathanbergson.itch.io/pandora">PANDORA by Jonathan Bergson</a></iframe>
+<iframe src="https://itch.io/embed/701990?bg_color=161a1d&amp;fg_color=d6d6d6&amp;link_color=c71054&amp;border_color=161a1d" width="552" height="167" frameborder="0"><a href="https://jonathanbergson.itch.io/pandora">PANDORA by Jonathan Bergson</a></iframe>
