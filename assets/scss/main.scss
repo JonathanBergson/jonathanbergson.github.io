@@ -25,7 +25,14 @@ body {
   opacity: 1;
 }
 
+a {
+  color: #626f7f;
+
+  &:hover {
+    color: #9db2cc;
+  }
+}
+
 .content {
-  margin: 64px 0;
   text-align: justify;
 }

@@ -1,11 +1,13 @@
 <template>
-  <div>
-    <nuxt-link to="/games/pandora">Pandora</nuxt-link>
-    •
-    <nuxt-link to="/games/hotliner">Hotliner</nuxt-link>
-    •
-    <nuxt-link to="/games/venda-sertao-mundo">Venda Sertão Mundo</nuxt-link>
-  </div>
+  <section>
+    <div class="content">
+      <me-post-title>Hello World</me-post-title>
+    </div>
+    <div class="content is-large">
+      <p>> Seja muito bem vindo</p>
+      <p>> Esse é meu portfólio de jogos digitais</p>
+    </div>
+  </section>
 </template>
 
 <script>
