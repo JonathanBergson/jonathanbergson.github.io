@@ -1,8 +1,12 @@
 <template>
-  <article class="content">
-    <me-post-title>{{ document.title }}</me-post-title>
-    <nuxt-content :document="document" />
-  </article>
+  <div>
+    <div class="content">
+      <me-post-title>{{ document.title }}</me-post-title>
+    </div>
+      <article class="content">
+      <nuxt-content :document="document" />
+    </article>
+  </div>
 </template>
 
 <script>
