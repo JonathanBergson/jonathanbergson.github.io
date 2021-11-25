@@ -9,7 +9,7 @@ Hotliner é um *infinit runner* onde você é um caçador de recompensas, a idei
 
 O design visual de Hotliner foi baseado em grandes mundos de ficção científica e futuros distópicos porém tínhamos o desafio de adaptar essa visão de futuro distópico para uma ambientação brasileira.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3SvpNIqm2dg" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<me-iframe-youtube id="3SvpNIqm2dg"></me-iframe-youtube>
 
 As principais referências para esse estilo visual que buscamos são filmes vintage e algumas animações sobre futuros no geral assim como o gênero Sci-fi e Cyberpunk.
 
@@ -21,6 +21,8 @@ Esse foi o segundo projeto desenvolvido no curso de Jogos Digitais da PUC Minas.
 
 Todos os modelos 3D que criamos para o game foram desenvolvidos utilizando o Blender. As texturas foram baseadas em jogos como Sea Of Thieves e Valorant, e foram todas pintadas por nós utilizando o Krita como principal ferramenta.
 
-#### Download:
+###### Download:
 
-<iframe src="https://itch.io/embed/912367?bg_color=161a1d&amp;fg_color=d6d6d6&amp;link_color=c71054&amp;border_color=161a1d" width="552" height="167" frameborder="0"><a href="https://jonathanbergson.itch.io/hotliner">Hotliner by Jonathan Bergson</a></iframe>
+<me-iframe-itchio id="912367" link-url="https://jonathanbergson.itch.io/hotliner">
+  Hotliner by Jonathan Bergson
+</me-iframe-itchio>

@@ -9,7 +9,7 @@ Um shooter de naves espaciais com movimentação livre, o personagem é uma nave
 
 Ele se desloca sempre orbitando um planeta, as naves inimigas e os tiros de todas as naves também irão se deslocar na orbita desse planetoide. Para vencer o jogador tem como objetivo primário destruir todas as naves inimigas e um chefe no final de cada fase.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBW2_5Ys4Ms" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<me-iframe-youtube id="rBW2_5Ys4Ms"></me-iframe-youtube>
 
 O objetivo secundário de cada fase será destruir torres ou destruir satélites inimigos que estarão distribuídos ao redor do planeta. O jogador perde a missão quando sua nave é destruída pelas naves inimigas ou para o chefe da fase.
 
@@ -33,6 +33,8 @@ O jogo foi desenvolvido para rodar em PCs e foi disponibilizado no itch.io para 
 
 Os controles do jogos utilizam mouse para mirar e o WASD para movimentar a nave.
 
-#### Download:
+###### Download:
 
-<iframe src="https://itch.io/embed/701990?bg_color=161a1d&amp;fg_color=d6d6d6&amp;link_color=c71054&amp;border_color=161a1d" width="552" height="167" frameborder="0"><a href="https://jonathanbergson.itch.io/pandora">PANDORA by Jonathan Bergson</a></iframe>
+<me-iframe-itchio id="701990" link-url="https://jonathanbergson.itch.io/pandora">
+  Pandora by Jonathan Bergson
+</me-iframe-itchio>
