@@ -5,6 +5,7 @@
     <main class="me-content">
       <Nuxt />
     </main>
+    <me-footer />
   </div>
 </template>
 
@@ -16,6 +17,7 @@
 }
 
 .me-content {
+  min-height: calc(100vh - 124px - 200px);
   padding: 64px 0;
 }
 </style>
