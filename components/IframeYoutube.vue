@@ -27,6 +27,7 @@ export default {
 
 <style lang="scss" scoped>
 .me-youtube {
+  background-color: #1f2328;
   height: 0;
   margin-bottom: 1em;
   padding-bottom: 56.25%;
