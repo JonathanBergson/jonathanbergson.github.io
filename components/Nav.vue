@@ -1,11 +1,11 @@
 <template>
   <nav>
-    <nuxt-link to="/">Home</nuxt-link>
+    <a href="/">Home</a>
     •
-    <nuxt-link to="/games/pandora">Pandora</nuxt-link>
+    <a href="/games/pandora">Pandora</a>
     •
-    <nuxt-link to="/games/hotliner">Hotliner</nuxt-link>
+    <a href="/games/hotliner">Hotliner</a>
     •
-    <nuxt-link to="/games/venda-sertao-mundo">Venda Sertão Mundo</nuxt-link>
+    <a href="/games/venda-sertao-mundo">Venda Sertão Mundo</a>
   </nav>
 </template>
