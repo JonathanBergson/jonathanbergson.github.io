@@ -52,7 +52,7 @@ jobs:
         run: yarn generate  
       
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.6
+        uses: JamesIves/github-pages-deploy-action@4.1.9
         with:
           branch: dist
           folder: dist
